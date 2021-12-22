@@ -16,7 +16,7 @@ Below is the summary of the Pyber ride-sharing data by city type.
 - Even though Urban city type has the highest Total Fare amount, it has the least Fare per Ride and Fare per Driver averages.
 - Rural city type has the highest Fare per Ride and Fare per Driver averages.
 - Average Fare per Driver varies significantly more than Average Fare per Ride across the three City types.
-- When weekly data for the sample period of Jan 2019 to April 2019 is taken into consideration, the City types follow the same treand as above. Urban city type is leading in Total sales foloowed by Suburban city type and Rural city type takes the last place. Please refer the multiple-line graph below. ![PyBer Fare Summary](analysis/Pyber_fare_summary.png)
+- When weekly data for the sample period of Jan 2019 till May 2019 is taken into consideration, the City types follow the same treand as above. Urban city type is leading in Total sales foloowed by Suburban city type and Rural city type takes the last place. Please refer the multiple-line graph below. ![PyBer Fare Summary](analysis/Pyber_fare_summary.png)
 
 ## Summary:
 
