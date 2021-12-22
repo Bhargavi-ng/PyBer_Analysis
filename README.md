@@ -1,9 +1,9 @@
 # PyBer_Analysis
 Project to analyze all the rideshare data from January to early May of 2019
 
-## Overview of the analysis: Explain the purpose of the new analysis.
+## Overview of the analysis:
 
-The purpose of the new analysis is well defined. (3 pt)
+The purpose of this project is to perform exploratory analysis of Pyber ride-sharing data by city type and create multiple-line graph that shows the total weekly fares for each city type.
 
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
@@ -13,6 +13,3 @@ There is a description of the differences in ride-sharing data among the differe
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
 
-
-
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
